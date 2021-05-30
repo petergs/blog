@@ -1,3 +1,24 @@
-baseURL = "http://example.org/"
+baseURL = "https://peter.gs"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Peter Stratis"
+theme = "lekh"
+
+[params]
+Name = "Peter Stratis"
+About = "Hi! I'm Peter - a Systems Administrator in Brooklyn, NY, USA with an interest in Security Operations. I currently work for [Gotham Greens](https://www.gothamgreens.com)."
+Email = "contact@peter.gs"
+Resume = "" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/petergs"
+
+[[params.profiles]]
+name = "Twitter"
+url = "https://twitter.com/peter__gs"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://linkedin.com/in/petergs"
