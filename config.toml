@@ -5,7 +5,7 @@ theme = "lekh"
 
 [params]
 Name = "Peter Stratis"
-About = "Hi! I'm Peter - a Systems Administrator in Brooklyn, NY, USA with an interest in Security Operations. I currently work for [Gotham Greens](https://www.gothamgreens.com)."
+About = "Hi! I'm Peter — a Systems Administrator in Brooklyn, NY with an interest in cybersecurity. I currently work for [Gotham Greens](https://www.gothamgreens.com), where I spent about three years cultivating lettuce and basil as part of their Greenhouse Operations and Growing teams. Now, I'm working on infrastructure engineering and data projects as we continue to open new greenhouses nationally."
 Email = "contact@peter.gs"
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
