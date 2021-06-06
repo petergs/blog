@@ -1,0 +1,1 @@
+I currently work for [Gotham Greens](https://www.gothamgreens.com), where I spent about three years cultivating lettuce and basil as part of their Greenhouse Operations and Growing teams. Now, I'm working on infrastructure engineering and data projects as we continue to open new greenhouses nationally.
