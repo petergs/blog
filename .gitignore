@@ -1,4 +1,3 @@
 public/
 resources/
-content/posts/origin.md
-content/posts/crackmes.md
+.hugo_build.lock

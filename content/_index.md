@@ -1,1 +1,1 @@
-I currently work for [Gotham Greens](https://www.gothamgreens.com), where I spent about three years cultivating lettuce and basil as part of their Greenhouse Operations and Growing teams. Now, I'm working on infrastructure engineering and data projects as we continue to open new greenhouses nationally.
+I'm currently seeking opportunities to work as a security analyst, so please send me an email if you think I'd be a good fit for a role at your organization.

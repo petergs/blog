@@ -5,7 +5,7 @@ theme = "lekh"
 
 [params]
 Name = "Peter Stratis"
-About = "Hi! I'm Peter — a Systems Administrator in Brooklyn, NY with an interest in cybersecurity." 
+About = "Hi! I'm Peter — an IT professional, self-hoster, and desktop Linux enthusiast."
 Email = "contact@peter.gs"
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
@@ -14,10 +14,6 @@ GoatCounterCode = ""
 [[params.profiles]]
 name = "GitHub"
 url = "https://github.com/petergs"
-
-[[params.profiles]]
-name = "Twitter"
-url = "https://twitter.com/peter__gs"
 
 [[params.profiles]]
 name = "LinkedIn"
